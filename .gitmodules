@@ -1,0 +1,9 @@
+[submodule "codersland-portfolio"]
+	path = codersland-portfolio
+	url = https://github.com/aratheunseen/django-CodersLand.git
+[submodule "digitalbangal-blog"]
+	path = digitalbangal-blog
+	url = https://github.com/aratheunseen/django-digitalbangal-blog.git
+[submodule "little-lemon-restaurant-website"]
+	path = little-lemon-restaurant-website
+	url = https://github.com/aratheunseen/django-little-lemon.git
